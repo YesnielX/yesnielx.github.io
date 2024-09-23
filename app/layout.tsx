@@ -23,6 +23,7 @@ export const metadata: Metadata = {
     title: "Yesniel - Full-Stack Developer",
     description:
       "Portfolio of Yesniel, a full-stack developer passionate about creating elegant, efficient, and user-friendly web applications.",
+
     url: process.env.NEXT_PUBLIC_SITE_URL,
     siteName: "Yesniel Portfolio",
     images: [
