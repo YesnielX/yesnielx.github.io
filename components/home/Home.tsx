@@ -24,7 +24,7 @@ export default function Home() {
           className="mb-6"
         >
           <Image
-            src="/images/yesniel-profile.jpeg"
+            src={`${process.env.NEXT_PUBLIC_URL}/images/yesniel-profile.jpeg`}
             alt="Profile"
             width={128}
             height={128}
