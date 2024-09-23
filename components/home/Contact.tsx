@@ -18,7 +18,7 @@ export default function Contact() {
       <div className="container mx-auto px-4 max-w-xl">
         <AnimatedTitle
           text="Contact"
-          className="text-6xl font-bold mb-8 text-center pt-4 text-gradient from-purple-400 via-pink-500 to-red-500 dark:text-blue-500"
+          className="text-6xl font-bold mb-8 text-center pt-4 text-blue-600 dark:text-yellow-400"
         />
 
         <motion.form
