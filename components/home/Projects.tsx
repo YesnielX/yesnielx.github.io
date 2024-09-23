@@ -11,8 +11,8 @@ const projects = [
     name: "Portfolio Website",
     description:
       "This website, built with Next.js, Tailwind CSS, Shadcn/UI, and Framer Motion.",
-    image: "/portfolio/images/projects/portfolio.jpg",
-    sourceCode: "https://github.com/yesnielx/portfolio",
+    image: "/images/projects/portfolio.jpg",
+    sourceCode: "https://github.com/yesnielx/yesnielx.github.io",
     liveDemo: process.env.NEXT_PUBLIC_SITE_URL,
     tags: ["Next.js", "Tailwind CSS", "Shadcn/UI", "Framer Motion"],
   },

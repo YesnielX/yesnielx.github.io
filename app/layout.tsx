@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     siteName: "Yesniel Portfolio",
     images: [
       {
-        url: "/portfolio/images/yesniel-profile.jpeg",
+        url: "/images/yesniel-profile.jpeg",
         alt: "Yesniel's profile picture",
       },
     ],
